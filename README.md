@@ -23,6 +23,6 @@ A Sample txt file that contains a maze representation is shown below.
 The first row indicates the the total rows and colums respectively.<br>
 In the last row:
 
-    - column 0 an 1 indicate the starting point's row and colunm respectively
-    - column 2 and 3 indicate the end point's row and colunm respectively
+    -column 0 an 1 indicate the starting point's row and colunm respectively
+    -column 2 and 3 indicate the end point's row and colunm respectively
 
