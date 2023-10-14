@@ -1,6 +1,6 @@
 ## maze
 This is a program designed to find a path in a provided maze using a backtracking algorithm.<br>
-The program reads a text file containing a maze representatin and outputs a path.
+The program reads a text file containing a maze representation and outputs a path.
 
 A Sample maze is represented by a 2D arrray as shown below.
  
