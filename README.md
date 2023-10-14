@@ -2,6 +2,7 @@
 This is a program designed to find a path in a provided maze using a backtracking algorithm.<br>
 The program reads a text file containing a maze representation and outputs a path.
 
+
 A maze is represented by a 2D arrray as shown below.
  
     1 1 1 1 1
@@ -25,6 +26,8 @@ In the last row:
 
    - column 0 and 1 indicate the starting point's row and colunm respectively
    - column 2 and 3 indicate the end point's row and colunm respectively
+
+
 
 Sample Output.
 
